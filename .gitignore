@@ -38,3 +38,5 @@ __pycache__
 
 # GCP credentials
 twsg-data-eng-bootcamp*.json 
+
+notebooks/top_five_crime_locations/
